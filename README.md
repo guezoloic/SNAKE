@@ -7,8 +7,6 @@
 
 ## Table of Content
 - [Overview](#Overview)
-- [Installation](#Installation)
 
 ## Overview
-
-## Installation
+`SNAKE` is a reimplementation of an university project based on **Java**. This new version is being completely rewritten in **C++** with several improvements.
